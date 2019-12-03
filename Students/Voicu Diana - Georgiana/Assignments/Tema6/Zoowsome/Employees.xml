@@ -1,0 +1,42 @@
+<?xml version="1.0"?><content>
+<EMPLOYEE>
+	<id>9074028651810</id>
+	<name>Roses</name>
+	<salary>2000</salary>
+	<isDead>true</isDead>
+	<workingHours>5.0</workingHours>
+	<DISCRIMINANT>INGRIJITOR</DISCRIMINANT>
+</EMPLOYEE>
+<EMPLOYEE>
+	<id>3208597358575</id>
+	<name>Mel</name>
+	<salary>2500</salary>
+	<isDead>true</isDead>
+	<workingHours>0.7000000000000002</workingHours>
+	<DISCRIMINANT>INGRIJITOR</DISCRIMINANT>
+</EMPLOYEE>
+<EMPLOYEE>
+	<id>9229338934146</id>
+	<name>Brian</name>
+	<salary>4000</salary>
+	<isDead>false</isDead>
+	<workingHours>4.3</workingHours>
+	<DISCRIMINANT>INGRIJITOR</DISCRIMINANT>
+</EMPLOYEE>
+<EMPLOYEE>
+	<id>4404393732374</id>
+	<name>Eleni</name>
+	<salary>1800</salary>
+	<isDead>false</isDead>
+	<workingHours>2.0</workingHours>
+	<DISCRIMINANT>INGRIJITOR</DISCRIMINANT>
+</EMPLOYEE>
+<EMPLOYEE>
+	<id>8151999322855</id>
+	<name>Shay</name>
+	<salary>1300</salary>
+	<isDead>false</isDead>
+	<workingHours>3.0</workingHours>
+	<DISCRIMINANT>INGRIJITOR</DISCRIMINANT>
+</EMPLOYEE>
+</content>
